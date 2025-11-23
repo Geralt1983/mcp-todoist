@@ -1,3 +1,4 @@
+[![smithery badge](https://smithery.ai/badge/@Geralt1983/mcp-todoist)](https://smithery.ai/server/@Geralt1983/mcp-todoist)
 [![smithery badge](https://smithery.ai/badge/@Hint-Services/mcp-todoist)](https://smithery.ai/server/@Hint-Services/mcp-todoist)
 [![npm version](https://img.shields.io/npm/v/@hoffination/mcp-todoist)](https://www.npmjs.com/package/@hoffination/mcp-todoist)
 
